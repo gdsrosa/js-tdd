@@ -1,0 +1,27 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "JS with TDD",
+  "main": "index.js",
+  "dependencies": {
+    "user": "^0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gdsrosa/js-tdd.git"
+  },
+  "keywords": [
+    "tdd",
+    "js"
+  ],
+  "author": "Gabriel Rosa <gabrieldsrosa@gmail.com> (https://github.com/gdsrosa)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gdsrosa/js-tdd/issues"
+  },
+  "homepage": "https://github.com/gdsrosa/js-tdd#readme"
+}
