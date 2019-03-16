@@ -1,5 +1,1 @@
-console.log('hello world!');
-
-const obj = {
-  foo: 'barr',
-};
+console.log('Test file');
