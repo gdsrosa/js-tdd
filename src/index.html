@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+    <title>JS com TDD</title>
+  </head>
+  <body>
+    <h1>JS com tdd</h1>
+  </body>
+  <script>
+    const posts = fetch('https://randomuser.me/api/');
+
+    posts
+      .then(data => data.json())
+      .then(data => {
+        const res = data.results;
+        res.map(user => console.log(user.name));
+      });
+  </script>
+</html>
