@@ -4,7 +4,7 @@
   "description": "JS with TDD",
   "main": "index.js",
   "dependencies": {
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "user": "^0.0.0"
