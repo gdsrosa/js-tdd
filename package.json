@@ -54,6 +54,6 @@
     "jest": "^24.5.0",
     "prettier": "^1.16.4",
     "webpack": "^4.41.5",
-    "webpack-cli": "^3.3.10"
+    "webpack-cli": "^3.3.12"
   }
 }
